@@ -1,6 +1,6 @@
-# Creative Digital Solutions
+<img src="https://himmlisch.com.mx/user/themes/himmlisch-studios/images/logo.svg" width="400" alt="Himmlisch Studio's logo"></img>
 
-![](https://himmlisch.com.mx/user/themes/himmlisch-studios/images/logo.svg)
+# Creative digital solutions
 
 We are a team of professionals who develop ideas and make them a reality. We offer a variety of services such as web development and graphic design.
 
